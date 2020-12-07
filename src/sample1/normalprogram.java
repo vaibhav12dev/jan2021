@@ -7,7 +7,7 @@ public class normalprogram {
 		System.out.println("goodEvening");
 		
 		
-		
+		System.out.println("good night");
 	}
 	
 	
